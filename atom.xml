@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anything</title>
+  <subtitle>development, cook</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-05-07T11:26:50.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Dumok Nam</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hi there</title>
+    <link href="http://yoursite.com/2017/05/07/hi-there/"/>
+    <id>http://yoursite.com/2017/05/07/hi-there/</id>
+    <published>2017-05-07T11:26:33.000Z</published>
+    <updated>2017-05-07T11:26:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’m back</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I’m back&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
+    
+  </entry>
+  
+</feed>
