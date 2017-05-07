@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/05/07/hexo-git-source-sync/</loc>
+    
+    <lastmod>2017-05-07T12:58:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/03/20/react-native-diary-part-five/</loc>
     
     <lastmod>2017-05-07T11:43:59.000Z</lastmod>
@@ -37,14 +44,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/10/25/local-search/</loc>
-    
-    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/07/11/HK-bo/</loc>
+    <loc>http://yoursite.com/2016/06/28/first/</loc>
     
     <lastmod>2017-05-07T11:34:38.000Z</lastmod>
     
@@ -58,7 +58,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/06/28/first/</loc>
+    <loc>http://yoursite.com/2016/07/11/HK-bo/</loc>
+    
+    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/06/29/gndngnfkaps/</loc>
     
     <lastmod>2017-05-07T11:34:38.000Z</lastmod>
     
@@ -72,7 +79,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/06/29/gndngnfkaps/</loc>
+    <loc>http://yoursite.com/2016/10/25/local-search/</loc>
     
     <lastmod>2017-05-07T11:34:38.000Z</lastmod>
     
