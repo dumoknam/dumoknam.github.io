@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-07T12:58:17.000Z</updated>
+  <updated>2017-05-07T13:04:52.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/05/07/hexo-git-source-sync/"/>
     <id>http://yoursite.com/2017/05/07/hexo-git-source-sync/</id>
     <published>2017-05-07T12:42:42.000Z</published>
-    <updated>2017-05-07T12:58:17.000Z</updated>
+    <updated>2017-05-07T13:04:52.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="edit-버튼을-달자"><a href="#edit-버튼을-달자" class="headerlink" title="edit 버튼을 달자"></a>edit 버튼을 달자</h3><p>포스트를 별도의 github repository에 관리하고,<br>포스트 상세페이지에서 edit 버튼을 달아서<br>블로그에서 github의 edit 페이지로 자동 연결하는 방법이다.</p>
 <p>hexo 의 gandalfr 테마를 기준으로 작성하였다. (jade 템플릿)<br><a id="more"></a></p>
@@ -31,7 +31,7 @@
 <li>post 타이틀에 링크 추가</li>
 </ol>
 <p>간단하다. 차례대로 해보자.</p>
-<h3 id="head-jade"><a href="#head-jade" class="headerlink" title="head.jade"></a>head.jade</h3><p>themes/gandalfr/layout/partial/head.jade 파일을 열고, 세 줄의 link 아래에 다음 코드를 추가하자.<br><figure class="highlight plain"><figcaption><span>themes/gandalfr/layout/partial/head.jade</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">link(rel=&quot;stylesheet&quot;, href=url_for(&quot;http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css&quot;))</div></pre></td></tr></table></figure></p>
+<h3 id="head-jade"><a href="#head-jade" class="headerlink" title="head.jade"></a>head.jade</h3><p>themes/gandalfr/layout/partial/head.jade 파일을 열고, 세 줄의 link 아래에 다음 코드를 추가하자.<br><figure class="highlight plain"><figcaption><span>themes/gandalfr/layout/partial/head.jade</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">link(rel=&quot;stylesheet&quot;, href=url_for(&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css&quot;))</div></pre></td></tr></table></figure></p>
 <h3 id="config-yml"><a href="#config-yml" class="headerlink" title="_config.yml"></a>_config.yml</h3><p>블로그 루트 디렉토리의 _config.yml 파일 맨 아래에 github repository 주소를 추가하자.<br>본인 id와 repository로 변경하자.<br>이 블로그의 설정된 예시는 아래와 같다.</p>
 <figure class="highlight yaml"><figcaption><span>_config.yml</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># github post directory</span></div><div class="line"><span class="string">github_post_edit_path</span> <span class="string">:</span> <span class="attr">https://github.com/dumoknam/hexo_posts/edit/master/</span></div><div class="line"><span class="comment"># github_post_edit_path : https://github.com/본인id/본인repository/edit/master/</span></div></pre></td></tr></table></figure>
 <h3 id="post-jade"><a href="#post-jade" class="headerlink" title="post.jade"></a>post.jade</h3><p>포스트 레이아웃 파일에 링크 아이콘을 달자.<br>themes/gandalfr/layout/mixins/post.jade 파일을 열고, 제일 아래에 45 라인쯤 부터 시작하는 mixin post(item)을 다음 코드로 변경하자</p>
