@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/10/31/korean-python-module-import-in-mac/</loc>
+    <loc>http://yoursite.com/2017/10/31/what-s-new-in-Django2/</loc>
     
-    <lastmod>2017-10-31T13:38:29.000Z</lastmod>
+    <lastmod>2017-11-16T13:19:57.297Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/10/31/what-s-new-in-Django2/</loc>
+    <loc>http://yoursite.com/2017/10/31/korean-python-module-import-in-mac/</loc>
     
-    <lastmod>2017-10-31T13:25:25.000Z</lastmod>
+    <lastmod>2017-10-31T13:38:29.000Z</lastmod>
     
   </url>
   
@@ -58,6 +58,34 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/2016/06/28/first/</loc>
+    
+    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/01/01/react-native-diary-part-one/</loc>
+    
+    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/07/21/make-ryan-cake/</loc>
+    
+    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/07/11/HK-bo/</loc>
+    
+    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/10/25/local-search/</loc>
     
     <lastmod>2017-05-07T11:34:38.000Z</lastmod>
@@ -73,34 +101,6 @@
   
   <url>
     <loc>http://yoursite.com/2016/09/05/influxdb-error-fix/</loc>
-    
-    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/07/11/HK-bo/</loc>
-    
-    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/07/21/make-ryan-cake/</loc>
-    
-    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/06/28/first/</loc>
-    
-    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/01/01/react-native-diary-part-one/</loc>
     
     <lastmod>2017-05-07T11:34:38.000Z</lastmod>
     
