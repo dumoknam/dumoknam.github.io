@@ -71,35 +71,6 @@
   </entry>
   
   <entry>
-    <title>start Django 2.0</title>
-    <link href="http://yoursite.com/2017/10/24/start-Django-2-0/"/>
-    <id>http://yoursite.com/2017/10/24/start-Django-2-0/</id>
-    <published>2017-10-23T15:07:15.000Z</published>
-    <updated>2017-10-23T15:09:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Django 2.0 정식 릴리즈가 머지 않았다. <a href="https://www.djangoproject.com/weblog/2015/jun/25/roadmap/" target="_blank" rel="noopener">Django 2.0 Roadmap</a></p><p>Django 2 버전의 바뀐점이 뭐가 있는지 정리하고</p><p>Toy Project 를 만드는 포스팅을 이어가려고 한다.</p><p>시~작!!</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Django 2.0 정식 릴리즈가 머지 않았다. &lt;a href=&quot;https://www.djangoproject.com/weblog/2015/jun/25/roadmap/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Django 2.0 
-      
-    
-    </summary>
-    
-      <category term="개발" scheme="http://yoursite.com/categories/%EA%B0%9C%EB%B0%9C/"/>
-    
-      <category term="Django" scheme="http://yoursite.com/categories/%EA%B0%9C%EB%B0%9C/Django/"/>
-    
-    
-      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
-    
-      <category term="Django" scheme="http://yoursite.com/tags/Django/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hexo 포스트 소스파일 github 연동 (Edit 버튼 달기)</title>
     <link href="http://yoursite.com/2017/05/07/hexo-git-source-sync/"/>
     <id>http://yoursite.com/2017/05/07/hexo-git-source-sync/</id>
@@ -407,9 +378,9 @@
       <category term="맛집" scheme="http://yoursite.com/categories/%EB%A7%9B%EC%A7%91/"/>
     
     
-      <category term="라멘" scheme="http://yoursite.com/tags/%EB%9D%BC%EB%A9%98/"/>
-    
       <category term="맛집" scheme="http://yoursite.com/tags/%EB%A7%9B%EC%A7%91/"/>
+    
+      <category term="라멘" scheme="http://yoursite.com/tags/%EB%9D%BC%EB%A9%98/"/>
     
       <category term="사당" scheme="http://yoursite.com/tags/%EC%82%AC%EB%8B%B9/"/>
     

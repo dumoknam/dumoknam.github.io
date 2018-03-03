@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/10/24/start-Django-2-0/</loc>
-    
-    <lastmod>2017-10-23T15:09:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2017/05/07/hexo-git-source-sync/</loc>
     
     <lastmod>2017-05-07T13:04:52.000Z</lastmod>
@@ -65,14 +58,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/01/01/react-native-diary-part-one/</loc>
-    
-    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/07/21/make-ryan-cake/</loc>
+    <loc>http://yoursite.com/2016/10/25/local-search/</loc>
     
     <lastmod>2017-05-07T11:34:38.000Z</lastmod>
     
@@ -86,13 +72,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/10/25/local-search/</loc>
-    
-    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2016/06/29/gndngnfkaps/</loc>
     
     <lastmod>2017-05-07T11:34:38.000Z</lastmod>
@@ -100,7 +79,21 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/2017/01/01/react-native-diary-part-one/</loc>
+    
+    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/09/05/influxdb-error-fix/</loc>
+    
+    <lastmod>2017-05-07T11:34:38.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/07/21/make-ryan-cake/</loc>
     
     <lastmod>2017-05-07T11:34:38.000Z</lastmod>
     
