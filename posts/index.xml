@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Anything</title>
-    <link>https://dumoknam.github.io/posts/</link>
+    <link>http://dumok.io/posts/</link>
     <description>Recent content in Posts on Anything</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 10 Mar 2018 17:29:25 +0900</lastBuildDate>
     
-	<atom:link href="https://dumoknam.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dumok.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo From Hexo</title>
-      <link>https://dumoknam.github.io/posts/hugo-from-hexo/</link>
+      <link>http://dumok.io/posts/hugo-from-hexo/</link>
       <pubDate>Sat, 10 Mar 2018 17:29:25 +0900</pubDate>
       
-      <guid>https://dumoknam.github.io/posts/hugo-from-hexo/</guid>
+      <guid>http://dumok.io/posts/hugo-from-hexo/</guid>
       <description>Hexo 에서 Hugo 로 넘어왔습니다 자주 써야지!</description>
     </item>
     
