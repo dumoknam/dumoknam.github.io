@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anything</title>
-    <link>http://dumok.io/</link>
-    <description>Recent content on Anything</description>
+    <title>맛집 on Anything</title>
+    <link>http://dumok.io/tags/%EB%A7%9B%EC%A7%91/</link>
+    <description>Recent content in 맛집 on Anything</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 10 Mar 2018 17:29:25 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jul 2016 09:50:32 +0000</lastBuildDate>
     
-	<atom:link href="http://dumok.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dumok.io/tags/%EB%A7%9B%EC%A7%91/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hugo From Hexo</title>
-      <link>http://dumok.io/posts/hugo-from-hexo/</link>
-      <pubDate>Sat, 10 Mar 2018 17:29:25 +0900</pubDate>
-      
-      <guid>http://dumok.io/posts/hugo-from-hexo/</guid>
-      <description> Hexo 에서 Hugo 로 넘어왔습니다 자주 써야지!
- </description>
-    </item>
     
     <item>
       <title>홍콩 - 보 이노베이션 (Bo Innovation)</title>
